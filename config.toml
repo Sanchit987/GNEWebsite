@@ -137,7 +137,7 @@ custom_css = ["css/custom.css"]
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "https://www.facebook.com/official.gndec"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
